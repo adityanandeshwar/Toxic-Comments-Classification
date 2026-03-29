@@ -1,1 +1,1 @@
-# Toxic-Comments-Classification
+# ToxiScan
